@@ -1,0 +1,23 @@
+{
+  "name": "sudokusolver",
+  "version": "0.0.1",
+  "description": "A generalised solver for multi size and extra variant Sudoku using a reasoning method to solve as a human would",
+  "homepage": "https://github.com/LouiseMcMahon/Sudoku-Solver#readme",
+  "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/LouiseMcMahon/Sudoku-Solver.git"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  }
+}
